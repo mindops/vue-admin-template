@@ -1,0 +1,167 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2373279 */
+  src: url('iconfont.woff2?t=1628995848804') format('woff2'),
+       url('iconfont.woff?t=1628995848804') format('woff'),
+       url('iconfont.ttf?t=1628995848804') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-caidanshouqi:before {
+  content: "\e611";
+}
+
+.icon-cangpeitubiao_caidanzhankai:before {
+  content: "\e605";
+}
+
+.icon-caidanyou:before {
+  content: "\e6c3";
+}
+
+.icon-calendar:before {
+  content: "\e653";
+}
+
+.icon-history:before {
+  content: "\e6a3";
+}
+
+.icon-history1:before {
+  content: "\e69b";
+}
+
+.icon-logo:before {
+  content: "\e6ad";
+}
+
+.icon-script-editor:before {
+  content: "\e612";
+}
+
+.icon-script:before {
+  content: "\e7e8";
+}
+
+.icon-deploy-list2:before {
+  content: "\e688";
+}
+
+.icon-deploy-list:before {
+  content: "\e689";
+}
+
+.icon-build:before {
+  content: "\e66f";
+}
+
+.icon-build2:before {
+  content: "\e602";
+}
+
+.icon-chuizi2:before {
+  content: "\e603";
+}
+
+.icon-debug:before {
+  content: "\e641";
+}
+
+.icon-play:before {
+  content: "\e63e";
+}
+
+.icon-xml-doc:before {
+  content: "\e623";
+}
+
+.icon-end-event-none:before {
+  content: "\e77c";
+}
+
+.icon-start-event-none:before {
+  content: "\e783";
+}
+
+.icon-create-group:before {
+  content: "\ea9d";
+}
+
+.icon-end-event:before {
+  content: "\e902";
+}
+
+.icon-save:before {
+  content: "\e61a";
+}
+
+.icon-return:before {
+  content: "\e642";
+}
+
+.icon-close:before {
+  content: "\e633";
+}
+
+.icon-gateway-xor:before {
+  content: "\e777";
+}
+
+.icon-gateway-none:before {
+  content: "\e779";
+}
+
+.icon-gateway-parallel:before {
+  content: "\e778";
+}
+
+.icon-gateway-or:before {
+  content: "\e77a";
+}
+
+.icon-gateway-eventbased:before {
+  content: "\e776";
+}
+
+.icon-gateway-complex:before {
+  content: "\e77b";
+}
+
+.icon-service-task:before {
+  content: "\e77f";
+}
+
+.icon-circleo:before {
+  content: "\e651";
+}
+
+.icon-service:before {
+  content: "\e800";
+}
+
+.icon-orchestration:before {
+  content: "\e75b";
+}
+
+.icon-approval:before {
+  content: "\e616";
+}
+
+.icon-api:before {
+  content: "\e643";
+}
+
+.icon-home:before {
+  content: "\e627";
+}
+
+.icon-settings:before {
+  content: "\e747";
+}
+
