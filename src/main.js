@@ -15,6 +15,8 @@ import router from './router'
 import '@/icons/iconfont.css'
 import '@/permission' // permission control
 
+import '@/styles/theme/index.css' // element ui theme
+
 /**
  * If you don't want to use mock-server
  * you want to use MockJs for mock api
